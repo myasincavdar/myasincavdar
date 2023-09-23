@@ -3,21 +3,21 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <a href="https://python.org"><img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <a href="https://php.net"><img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <a href="https://w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <a href="https://linux.net"><img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <a href="https://microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  /></a>
 </div>
 
 ###
