@@ -32,6 +32,10 @@
   <a href="https://x.com/myasincavdar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <br/>
+  <a href="https://www.buymeacoffee.com/myasincavdar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Buy Me A Coffe&logo=buy-me-a-coffee&label=&color=ffdd00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buymeacoffe logo"  />
+  </a>
 </div>
 
 ###
