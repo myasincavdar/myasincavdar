@@ -34,7 +34,7 @@
   </a>
   <br/>
   <a href="https://www.buymeacoffee.com/myasincavdar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy Me A Coffe&logo=buy-me-a-coffee&label=&color=ffdd00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buymeacoffe logo"  />
+    <img src="https://img.shields.io/static/v1?message=Buy Me A Coffee&logo=buy-me-a-coffee&label=&color=ffdd00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buymeacoffee logo"  />
   </a>
 </div>
 
